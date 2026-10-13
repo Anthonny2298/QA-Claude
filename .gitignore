@@ -1,0 +1,7 @@
+# Config local de MCP (rutas de esta maquina)
+.mcp.json
+
+# Temporales
+*.bak
+fragmento-*.md
+*-correr.mjs
